@@ -1,5 +1,4 @@
 # Secrets
-.env
 *.env
 
 # macOS
@@ -18,3 +17,5 @@ coverage.out
 
 # Local directories not for version control
 /.claude/
+config.bat
+node_modules
